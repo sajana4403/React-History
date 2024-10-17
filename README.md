@@ -1,1 +1,5 @@
-# React-History
+### Initialization
+
+```
+npm install && npm start
+```
